@@ -1,5 +1,6 @@
 {
-	"studentAddress": [{
+	"studentAddress": [
+		{
 			"H.No": "1243",
 			"Name": "Sk Noman",
 			"locality": "Barishal",
